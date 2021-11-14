@@ -2,7 +2,7 @@ import pyautogui
 import time
 import threading
 import random
-a = random.random()
+
 # set global variable flag
 flag = 1
 screenWidth, screenHeight = pyautogui.size()
